@@ -1,0 +1,77 @@
+
+Lynda.com
+
+1.web technology fundamentals-Understanding How the Web Works 
+	https://nam.inna.is/api/Attachment/DownloadFile/127923/495700?student=1
+
+2.web technology fundamentals-Working With Clients and Servers
+	https://nam.inna.is/api/Attachment/DownloadFile/127926/495700?student=1
+
+3.web technology fundamentals-DNS and Why it Matters
+	https://nam.inna.is/api/Attachment/DownloadFile/127928/495700?student=1
+
+4.web technology fundamentals-Internet Protocols
+	https://nam.inna.is/api/Attachment/DownloadFile/127929/495700?student=1
+
+
+5.web technology fundamentals-Exploring HTTP
+	https://nam.inna.is/api/Attachment/DownloadFile/127934/495700?student=1
+	
+
+
+6.web technology fundamentals-Anatomy of a URL
+	https://nam.inna.is/api/Attachment/DownloadFile/127935/495700?student=1
+
+
+7.web technology fundamentals-How Browsers Work
+	https://nam.inna.is/api/Attachment/DownloadFile/127936/495700?student=1
+
+
+8.web technology fundamentals-Web Standards and the W3C
+	https://nam.inna.is/api/Attachment/DownloadFile/127938/495700?student=1
+
+
+9.web technology fundamentals-Web Server Basics
+	https://nam.inna.is/api/Attachment/DownloadFile/127939/495700?student=1
+
+
+10.web technology fundamentals-(back-end technology)-Server Side Scripting
+	https://nam.inna.is/api/Attachment/DownloadFile/81170/495700?student=1
+
+
+11.web technology fundamentals-(back-end technology)-PHP
+...video on the other side
+
+
+12.web technology fundamentals-(back-end technology)-Other languages
+	https://nam.inna.is/api/Attachment/DownloadFile/81175/495700?student=1
+...this was not playing
+	
+
+
+13.web technology fundamentals-(back-end technology)-Dealing with data
+	https://nam.inna.is/api/Attachment/DownloadFile/81171/495700?student=1
+	
+
+
+14.web technology fundamentals-(back-end technology)-SQL database
+	https://nam.inna.is/api/Attachment/DownloadFile/81168/495700?student=1
+
+
+15.web technology fundamentals-(back-end technology)-Cloud Services
+	https://nam.inna.is/api/Attachment/DownloadFile/127919/495700?student=1
+
+
+Verkefni 1 - Grunnatriði í vef - HTTP
+
+1. Udacity - Lesson 1 (þarf að stofna aðgang)
+	https://auth.udacity.com/sign-in?next=https%3A%2F%2Fclassroom.udacity.com%2Fauthenticated
+
+2. HTTP - The Protocol Every Web Developer Must Know - Part 1
+	https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177
+
+3. Query String og Routing, skýringar frá kennara
+	https://nam.inna.is/api/Attachment/DownloadFile/193009/495700?student=1
+
+
+

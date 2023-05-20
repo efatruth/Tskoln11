@@ -1,0 +1,11 @@
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
+http://pwp.stevecassidy.net/bottle/forms-processing.html#dealing-with-form-data-in-bottle
+https://bottlepy.org/docs/dev/tutorial.html#tutorial-request
+
+
+http://www.regexlib.com/CheatSheet.aspx
+
+http://html5pattern.com/Phones
+
+https://blog.adversary.io/facebook-hack/
